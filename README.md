@@ -42,6 +42,15 @@ Proposed solution: Develop an AI-powered platform that connects Indian farmers d
 
 ## 1. Technical workflow
 
+SmartAgri — AI + IoT + Data Analytics
+
+Complete technical architecture and workflow diagram
+
+[Application of Smart Techniques, Internet of Things and Data Mining for Resource Use Efficient and Sustainable Crop Production | MDPI](https://images.openai.com/static-rsc-4/PHdWtP1xj3-8bfzOvS85ASomANO1Cr-pLd6Qu9GDxZySR2j7x0OlCXpmqfs1j3DpuKtr1f5DISc0DD1RZ5Czu5aenYBpSbSKrVi5WEHgXSu6je3iadOqdnLb9UP7-tWCWJ4zZyc1HQhF1ZQjwrQA9UdUWHRelci-Ms_B77MEg1c?purpose=inline)
+
+
+Open the SmartAgri diagram
+
 Step 1: Collect agricultural data
 
 Crop prices, market arrivals, seasonal demand, weather, and buyer requirements
