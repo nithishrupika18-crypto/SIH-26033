@@ -261,7 +261,7 @@ Ultimately, AgriConnect AI aims to create a more transparent, connected, and sus
 ## Research and References
 # Detailed References for Your AI-Powered Agricultural Marketplace Project
 
-Your project proposes using AI to help Indian farmers receive fair prices, predict seasonal demand, sell directly to buyers, access government support, and become agricultural entrepreneurs.
+my project proposes using AI to help Indian farmers receive fair prices, predict seasonal demand, sell directly to buyers, access government support, and become agricultural entrepreneurs.
 
 The following references provide official data sources, existing platforms, and research evidence you can use in your project report or presentation.
 
@@ -347,8 +347,7 @@ Home
 
 ## 2. How these references support your proposed solution
 
-| Your project feature | Reference to use | Evidence or application |
-| --- | --- | --- |
+
 | AI-based price prediction | AGMARKNET and Open Government Data | Historical market prices can support forecasting model development. |
 | Direct farmer-to-buyer sales | e-NAM | Demonstrates an existing digital agricultural trading model. |
 | Seasonal demand analysis | AGMARKNET and FAO Market and Trade Data Portal | Market and commodity information can support demand and supply analysis. |
@@ -378,7 +377,6 @@ Home
 
 ## 4. Ready-to-use references section for your report
 
-You can copy the following into your project's References section.
 
 1. Government of India, Ministry of Agriculture and Farmers Welfare. AGMARKNET — Agricultural Marketing Information Network. [https://agmarknet.gov.in/](<https://agmarknet.gov.in/?utm_source=chatgpt.com>)
 2. Government of India. National Agriculture Market (e-NAM). [https://www.enam.gov.in/web/](<https://www.enam.gov.in/web/?utm_source=chatgpt.com>)
